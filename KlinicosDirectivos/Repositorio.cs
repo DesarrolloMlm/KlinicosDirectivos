@@ -124,6 +124,15 @@ namespace KlinicosDirectivos
                     ip = "192.168.70.10";
                     break;
 
+                case 13: // odonto
+                    ip = "192.168.75.10";
+                    break;
+                case 2: // equiza
+                    ip = "172.18.1.10";
+                    break;
+                case 16: // Tablada
+                    ip = "172.47.1.10";
+                    break;
                 default:
                     ip = "172.16.127.150";
                     break;
